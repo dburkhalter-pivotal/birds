@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: birds
+Implementation-Version: 2.0.0
+Built-By: didier
+Implementation-Vendor-Id: io.acme
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Bird organization
+
